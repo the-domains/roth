@@ -1,0 +1,28 @@
+name: Roth
+favicon: null
+layout_spectrum: 0.15628050337545574
+typography_spectrum: 0.5605181315913796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.15290866303257644
+  lightness: 0.09131741104647517
+  saturation: 0.33602236583828926
+  rhythmicContrast: 0.3538255547173321
+purpose: []
